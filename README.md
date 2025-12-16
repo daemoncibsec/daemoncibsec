@@ -27,5 +27,5 @@
     <p><a href="https://github.com/daemoncibsec/intruder">Intruder</a></p>
     <p><a href="https://github.com/daemoncibsec/crtfindr">CrtFindr</a></p>
     <p><a href="https://github.com/daemoncibsec/subenumerator">SubEnumerator</a></p>
-    ![Profile views](https://komarev.com/ghpvc/?username=daemoncibsec&color=blueviolet&style=flat-square)
+    ![Visitas al perfil](https://komarev.com/ghpvc/?username=daemoncibsec&color=blueviolet&style=flat-square)
 </div>
