@@ -19,7 +19,7 @@
     <p><b>Experience using Linux:</b> 4 years</p>
     <p><b>Experience developing tools:</b> 2 years</p>
     <p><b>Interested in:</b> Malware Development, Exploiting, Automation, Hacking anything that exists.</p>
-    <p>(I'm a nerd of red teamming operations. I should touch grass more often)</p>
+    <p>(I'm a nerd of red team operations. I should touch grass more often)</p>
     <p><b>Languages:</b> Spanish, French, English (obviously)</p>
     <p><b>Looking for:</b> Expanding my knowledge about red teaming and cybersecurity. Doesn't matter the way.</p>
     </div>
