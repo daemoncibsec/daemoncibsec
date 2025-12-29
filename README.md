@@ -10,7 +10,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux Kernel" width="40" height="40"/>
         <img src="https://brandslogos.com/wp-content/uploads/images/python-logo-black-and-white.png" title="Python" **alt="Python Programming Language" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash Scripting" width="40" height="40"/>
-        <img src="https://ar.inspiredpencil.com/pictures-2023/c%20%20-logo-transparent" title="C" **alt="C programming language" width="40" height="40"/>
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png" title="C" **alt="C programming language" width="40" height="40"/>
         <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" title="Javascript" **alt="Javascript Programming Language" width="40" height="40"/>
       </div>
     <div>
