@@ -23,7 +23,7 @@
     <p><b>Languages:</b> Spanish, French, English (obviously)</p>
     <p><b>Looking for:</b> Expanding my knowledge about red teaming and cybersecurity. Doesn't matter the way.</p>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=daemoncibsec&color=blueviolet&style=flat-square" title="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=daemoncibsec&color=black&style=flat-square" title="Profile views">
     <h3>Check out any of my main repositories such as:</h3>
     <p><a href="https://github.com/daemoncibsec/intruder">Intruder</a></p>
     <p><a href="https://github.com/daemoncibsec/crtfindr">CrtFindr</a></p>
