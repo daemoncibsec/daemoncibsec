@@ -17,14 +17,13 @@
     <h3>Info:</h3>
     <p><b>Experience using Linux:</b> 4 years</p>
     <p><b>Experience developing tools:</b> 2 years</p>
-    <p><b>Interested in:</b> Malware Development, Exploiting, Automation, Hacking anything that exists.</p>
-    <p>(I'm a nerd of red team operations. I should touch grass more often)</p>
+    <p><b>Interested in:</b> Malware Development, Exploiting, Reverse Engineering, Hacking</p>
     <p><b>Languages:</b> Spanish, French, English (obviously)</p>
     <p><b>Looking for:</b> Expanding my knowledge about red teaming and cybersecurity. Doesn't matter the way.</p>
     </div>
     <img src="https://komarev.com/ghpvc/?username=daemoncibsec&color=grey&style=flat-square" title="Profile views">
     <h3>Check out any of my main repositories such as:</h3>
     <p><a href="https://github.com/daemoncibsec/intruder">Intruder</a></p>
-    <p><a href="https://github.com/daemoncibsec/crtfindr">CrtFindr</a></p>
-    <p><a href="https://github.com/daemoncibsec/subenumerator">SubEnumerator</a></p>
+    <p><a href="https://github.com/daemoncibsec/Malware-Development-Code">CrtFindr</a></p>
+    <p><a href="https://github.com/daemoncibsec/S.H.E.L.L">SubEnumerator</a></p>
 </div>
