@@ -24,6 +24,6 @@
     <img src="https://komarev.com/ghpvc/?username=daemoncibsec&color=grey&style=flat-square" title="Profile views">
     <h3>Check out any of my main repositories such as:</h3>
     <p><a href="https://github.com/daemoncibsec/intruder">Intruder</a></p>
-    <p><a href="https://github.com/daemoncibsec/Malware-Development-Code">CrtFindr</a></p>
-    <p><a href="https://github.com/daemoncibsec/S.H.E.L.L">SubEnumerator</a></p>
+    <p><a href="https://github.com/daemoncibsec/Malware-Development-Code">Malware Development Code</a></p>
+    <p><a href="https://github.com/daemoncibsec/S.H.E.L.L">S.H.E.L.L</a></p>
 </div>
